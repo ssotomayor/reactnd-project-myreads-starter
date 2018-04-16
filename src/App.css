@@ -172,3 +172,13 @@ body, .app {
   text-align: center;
   font-size: 0.8em;
 }
+
+.loader{
+  position:fixed;
+  bottom: 20px;
+  left: 20px;
+}
+
+.center{
+  text-align: center;
+}
