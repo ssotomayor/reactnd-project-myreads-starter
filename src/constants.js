@@ -1,10 +1,10 @@
 const SHELVES = {
   currentlyReading: {
-    humanReadable: 'Currently Reanggding',
+    humanReadable: 'Currently Reading',
     text: 'currentlyReading'
   },
   wantToRead: {
-    humanReadable: 'Want to Reaadddd',
+    humanReadable: 'Want to Read',
     text: 'wantToRead'
   },
   read: {
